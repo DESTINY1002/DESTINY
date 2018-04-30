@@ -3,3 +3,7 @@ https://www.cnblogs.com/Tom-yi/p/8036730.html
 https://www.jianshu.com/p/525f1e024915
 
 https://www.cnblogs.com/sxz2008/p/6370221.html
+
+
+optaplanner
+https://docs.optaplanner.org/6.2.0.Final/optaplanner-docs/pdf/optaplanner-docs.pdf

@@ -21,3 +21,9 @@ https://github.com/TIGERB/easy-vue/tree/master/src
 
 spring mvc
 https://www.cnblogs.com/sunniest/p/4555801.html
+
+
+
+kafka vs mq:
+kafka没有提供jms的事务性，只能作为常规的消息系统，在一定程度上，尚未确保消息发送、接收绝对可靠
+

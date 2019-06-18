@@ -73,3 +73,32 @@ c)主导CodeDEX及静态检查问题的整改，完成CodeDEX 100+问题的修�
 d)在sunrise项目中，
 负责Sunrise Project ICTSM Portal和End-User Portal的开发工作，独立完成其中6个页面、查询功能与接口提供、access control、delegate功能合入、模板等特性的开发工作，代码量2Kloc，解决体验测试提出的问题20+；梳理Sunrise Project portal需求，输出所有页面（12个页面）的功能场景、特性的设计规格。
 完成表单及提交逻辑管理的SRD、PDT配置系统的开发，完成表单提交服务、模板查找、父子单关闭及状态控制等代码的开发共计代码量1.5Kloc。辅助测试解决问题10+。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toLearn:
+java << >> >>>;
+内存屏障
+tcp三次握手四次挥手
+activemq VS Kafka
+volatile
+hashmap实现

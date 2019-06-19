@@ -100,5 +100,5 @@ java << >> >>>;
 内存屏障
 tcp三次握手四次挥手
 activemq VS Kafka
-volatile
+volatile：http://www.importnew.com/24082.html
 hashmap实现
